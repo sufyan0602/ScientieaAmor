@@ -1,3 +1,4 @@
 # ScientieaAmor
-This is my website / blog where I share my favorite books and ideas in pursuit of becoming smarter
-I want to also share my collection of thoughts and ideas about various topics in order to better understand the human condition. 
+This website is where I share my writrings about history and other important ideas about humanity
+This is a passion project and somewhere I can write my thoughts. I created this as a way to be able to 
+dive into our world and learn more about what it means to be human. 
